@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudioProjects\\Android-Image-Cropper\\quick-start\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz\\values-uz.xml",
+            "outputFile": "D:\\CNN_project\\quick-start\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz\\values-uz.xml",
             "map": [
                 {
                     "source": "C:\\Users\\BRISSETA\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\c27f38dce9d48c1e0d97001b92553699\\res\\values-uz\\values-uz.xml",

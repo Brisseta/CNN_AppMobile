@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:2:1-33:12
-MERGED from [:cropper] D:\AndroidStudioProjects\Android-Image-Cropper\cropper\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [:cropper] D:\CNN_project\cropper\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\1a5e18ad8e769e1640b3022858e341a5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\5fc1d0498d5f277f310f4fd21548d1ad\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.volley:volley:1.1.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\8837f56df321fcc765e7b042d55189aa\AndroidManifest.xml:2:1-11:12
@@ -39,40 +39,40 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BRISSETA\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\2ad684d2c169022935e6a73d0d5caaab\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\56ed6516cfbd400c71b14cc9a576420f\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\7c568cdb069028cfd07a838134b10b48\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:4:5-57
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:4:5-57
 	android:versionName
-		INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
+		INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:3:5-51
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
+		INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:6:5-80
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:6:22-77
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:6:22-77
 uses-permission#android.permission.CAMERA
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:7:5-65
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:7:5-65
 	android:name
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:7:22-62
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:7:22-62
 uses-permission#android.permission.INTERNET
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:8:5-67
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:8:5-67
 	android:name
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:8:22-64
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:8:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:9:5-76
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:9:5-76
 	android:name
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:9:22-73
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:9:22-73
 application
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:11:5-31:19
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:11:5-31:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\1a5e18ad8e769e1640b3022858e341a5\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\1a5e18ad8e769e1640b3022858e341a5\AndroidManifest.xml:22:5-20
 MERGED from [com.android.volley:volley:1.1.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\8837f56df321fcc765e7b042d55189aa\AndroidManifest.xml:9:5-20
@@ -86,51 +86,51 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BR
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c27f38dce9d48c1e0d97001b92553699\AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:14:9-41
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:14:9-41
 	tools:ignore
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:16:9-48
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:16:9-48
 	android:icon
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:13:9-45
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:13:9-45
 	android:allowBackup
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:12:9-36
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:12:9-36
 	android:theme
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:15:9-52
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:15:9-52
 activity#com.theartofdev.edmodo.cropper.quick.start.SettingsActivity
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:17:9-19:72
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:17:9-19:72
 	android:label
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:19:13-60
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:19:13-60
 	android:name
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:18:13-45
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:18:13-45
 activity#com.theartofdev.edmodo.cropper.quick.start.MainActivity
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:20:9-28:20
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:20:9-28:20
 	android:label
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:22:13-45
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:22:13-45
 	android:name
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:21:13-41
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:21:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:24:17-69
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:24:25-66
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:26:17-77
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:26:27-74
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:26:27-74
 activity#com.theartofdev.edmodo.cropper.CropImageActivity
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:29:9-85
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:29:9-85
 	android:name
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:29:19-82
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:29:19-82
 activity#com.theartofdev.edmodo.cropper.quick.start.ResultActivity
-ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:30:9-52
+ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:30:9-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml:30:19-49
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml:30:19-49
 uses-sdk
-INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
-MERGED from [:cropper] D:\AndroidStudioProjects\Android-Image-Cropper\cropper\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:cropper] D:\AndroidStudioProjects\Android-Image-Cropper\cropper\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
+INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
+MERGED from [:cropper] D:\CNN_project\cropper\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:cropper] D:\CNN_project\cropper\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\1a5e18ad8e769e1640b3022858e341a5\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\1a5e18ad8e769e1640b3022858e341a5\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\5fc1d0498d5f277f310f4fd21548d1ad\AndroidManifest.xml:20:5-44
@@ -201,13 +201,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BRISSETA
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\56ed6516cfbd400c71b14cc9a576420f\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\7c568cdb069028cfd07a838134b10b48\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BRISSETA\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\7c568cdb069028cfd07a838134b10b48\AndroidManifest.xml:20:5-44
-INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
+INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
+INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
+		INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
+		INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Android-Image-Cropper\quick-start\src\main\AndroidManifest.xml
+		INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
+		ADDED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml
+		INJECTED from D:\CNN_project\quick-start\src\main\AndroidManifest.xml

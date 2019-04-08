@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudioProjects\\Android-Image-Cropper\\quick-start\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
+            "outputFile": "D:\\CNN_project\\quick-start\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
             "map": [
+                {
+                    "source": "D:\\CNN_project\\cropper\\build\\intermediates\\packaged_res\\debug\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,201,255,309,383,455,538,599",
+                        "endColumns": "98,46,53,53,73,71,82,60,71",
+                        "endOffsets": "149,196,250,304,378,450,533,594,666"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,36,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2779,2878,2925,2979,3033,3107,3179,3262,3323",
+                        "endColumns": "98,46,53,53,73,71,82,60,71",
+                        "endOffsets": "2873,2920,2974,3028,3102,3174,3257,3318,3390"
+                    }
+                },
                 {
                     "source": "C:\\Users\\BRISSETA\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\c27f38dce9d48c1e0d97001b92553699\\res\\values-ar\\values-ar.xml",
                     "from": {
@@ -18,23 +35,6 @@
                         "startOffsets": "3476",
                         "endColumns": "100",
                         "endOffsets": "3572"
-                    }
-                },
-                {
-                    "source": "D:\\AndroidStudioProjects\\Android-Image-Cropper\\cropper\\build\\intermediates\\packaged_res\\debug\\values-ar\\values-ar.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,154,201,255,309,383,455,538,599",
-                        "endColumns": "98,46,53,53,73,71,82,60,71",
-                        "endOffsets": "149,196,250,304,378,450,533,594,666"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,36,37",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2779,2878,2925,2979,3033,3107,3179,3262,3323",
-                        "endColumns": "98,46,53,53,73,71,82,60,71",
-                        "endOffsets": "2873,2920,2974,3028,3102,3174,3257,3318,3390"
                     }
                 },
                 {

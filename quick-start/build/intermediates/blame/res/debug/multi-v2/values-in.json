@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudioProjects\\Android-Image-Cropper\\quick-start\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
+            "outputFile": "D:\\CNN_project\\quick-start\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
             "map": [
                 {
                     "source": "C:\\Users\\BRISSETA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\5fc1d0498d5f277f310f4fd21548d1ad\\res\\values-in\\values-in.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "D:\\AndroidStudioProjects\\Android-Image-Cropper\\cropper\\build\\intermediates\\packaged_res\\debug\\values-in\\values-in.xml",
+                    "source": "D:\\CNN_project\\cropper\\build\\intermediates\\packaged_res\\debug\\values-in\\values-in.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

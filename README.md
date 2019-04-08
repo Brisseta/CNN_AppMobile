@@ -21,4 +21,4 @@
  Liens utiles : 
  ## https://github.com/Brisseta/Back_endCV.git : repository du serveur (en cas de pb)
  ## https://github.com/ArthurHub/Android-Image-Cropper.git : mécanisme de rognage et modification d'image
- ## https://data.vision.ee.ethz.ch/sagea/lld/ : dataset gratuit de logos
+ ## http://www.multimedia-computing.de/flickrlogos/: dataset gratuit de logos
